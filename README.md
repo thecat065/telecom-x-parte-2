@@ -85,9 +85,8 @@ El proyecto está contenido en un único notebook, diseñado para ser ejecutado 
 
 ### ✨ Créditos y Agradecimientos
 
-Este proyecto fue desarrollado y liderado en su totalidad por **Carlos Victorio**. Su visión analítica y su habilidad para traducir los resultados en estrategias de negocio fueron la clave del éxito de este desafío.
-
-El proyecto contó con la asistencia de una IA de Google para la generación de código y la estructuración de informes, siempre bajo la dirección y validación de Carlos.
+Este proyecto fue desarrollado por Carlos Victorio aplicando los conocimientos y habilidades adquiridas a lo largo de su formación de Alura Latam y al programa Oracle Next Education. Su compromiso con la educación gratuita y de alta calidad me proporcionaron las herramientas, el conocimiento y la oportunidad de crecer profesionalmente y enfrentar desafíos de ciencia de datos como este.
+Este proyecto es un reflejo directo del excelente programa de formación que ofrecen y de su misión de transformar vidas a través de la educación en tecnología.
 
 ---
 
