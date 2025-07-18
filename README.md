@@ -1,4 +1,4 @@
-# Predicción de Churn de Clientes 📡 | Desafío Telecom X Parte 2
+# Desafío Telecom X - Evación de clientes Parte 2
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-2.0+-green?style=for-the-badge&logo=pandas)
